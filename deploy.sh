@@ -42,4 +42,3 @@ cd $TOMCAT_APP_PATH/
 sh bin/startup.sh
 
 
-
