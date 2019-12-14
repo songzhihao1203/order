@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    家常菜
+                    欢迎品尝小宋家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
